@@ -6,6 +6,7 @@ function isBetween(first, last, word) {
       return false
     }
   }
+  return false
 }
 
 console.log(isBetween('apple', 'banana', 'azure'))
